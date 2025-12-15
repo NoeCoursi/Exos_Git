@@ -7,3 +7,5 @@
 2. Comme ça.
 
 **Ce texte est en gras**
+
+```{Bash} ls -ltr```
