@@ -8,4 +8,6 @@
 
 **Ce texte est en gras**
 
-```{Bash} ls -ltr```
+```Bash 
+ls -ltr
+```
